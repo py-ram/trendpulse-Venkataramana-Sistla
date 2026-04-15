@@ -16,7 +16,3 @@ This project fetches trending posts from Hacker News API, cleans the data, perfo
 - Matplotlib
 - Hacker News API
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python main.py
