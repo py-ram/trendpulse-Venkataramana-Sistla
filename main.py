@@ -1,7 +1,7 @@
-from src.fetch_data import fetch_top_stories
-from src.clean_data import clean_data
-from src.analysis import analyze
-from src.visualize import plot_data
+from fetch_data import fetch_top_stories
+from clean_data import clean_data
+from analysis import analyze
+from visualize import plot_data
 
 # Step 1
 fetch_top_stories()
